@@ -3,8 +3,8 @@ package game;
 import javax.swing.*;
 import java.awt.*;
 
-import static game.Game.SCREEN_HEIGHT;
-import static game.Game.SCREEN_WIDTH;
+import static game.Game5.SCREEN_HEIGHT;
+import static game.Game5.SCREEN_WIDTH;
 
 public class Player extends Rectangle {
     private static final int PLAYER_SPEED = 3;

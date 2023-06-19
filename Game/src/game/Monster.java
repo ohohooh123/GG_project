@@ -3,7 +3,7 @@ package game;
 import javax.swing.*;
 import java.awt.*;
 
-import static game.Game.MONSTER_PROJECTILE_COOLDOWN;
+import static game.Game5.MONSTER_PROJECTILE_COOLDOWN;
 
 public class Monster extends Rectangle {
     private static final int MONSTER_SPEED = 1;

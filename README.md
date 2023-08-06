@@ -96,21 +96,21 @@ attack1(), attack2(ActionEvent e), attack3(ActionEvent e): 몬스터의 공격 �
 
 # 게임 진행방향
 
-![ggmain](https://github.com/LeeAhjin96/second-Collabor-GG/assets/129921901/1d735773-cffe-4e49-82c6-b3f0796b78e8)
+![1](https://github.com/ohohooh123/GG_project/assets/45931408/78fef224-b389-4e9e-bac3-a802b9d9626f)
 
 메인 페이지 게임 시작 click ->
 
-![ggplay](https://github.com/LeeAhjin96/second-Collabor-GG/assets/129921901/c41a513e-3514-4b6d-af0c-e34b047ac901)
+![2](https://github.com/ohohooh123/GG_project/assets/45931408/f5bbdfc8-1b89-4b93-b8d6-af795f51862c)
 
 맵 중 떠있는 안경을 먹을 시 갑옷(정장)을 입으며 체력 상승
 
-![ggplay2](https://github.com/LeeAhjin96/second-Collabor-GG/assets/129921901/603bb167-5e94-4d98-a3c8-d6856eb42661)
+![3](https://github.com/ohohooh123/GG_project/assets/45931408/28a3e789-02e6-464a-8186-09e6d28ca530)
 
-![ggplay4](https://github.com/LeeAhjin96/second-Collabor-GG/assets/129921901/1bf53148-a9c2-45df-b816-14e0889b718c)
+![4](https://github.com/ohohooh123/GG_project/assets/45931408/2160da19-4858-40df-9205-e499a076fb91)
 
 첫번째 몬스터 해치울 경우, 2번째 보스 등장 문구
 
-![ggplay5](https://github.com/LeeAhjin96/second-Collabor-GG/assets/129921901/669ce401-e034-4b09-853b-e2899bc94ca6)
+![5](https://github.com/ohohooh123/GG_project/assets/45931408/5df5ab10-f88a-46ed-af4a-97a24ed53934)
 
 
 # Tools
